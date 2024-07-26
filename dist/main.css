@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.experience
+{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+.credits
+{   
+    padding: 5px 15px;
+    position: absolute;
+    bottom: 5%;
+    right: 3%;
+    color: #ffe100;
+    text-align: right;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: "Viga", sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.credits a
+{
+    color: inherit;
+     /* 刪除底槓 */
+    text-decoration: none;
+}
+.credits a:hover
+{
+    color: #2600ff;
+    transition: all 0.2s;
+    margin-left: 15px;
+    padding: 5px 15px;
+    font-size: 46px;
+    background-color: #ffe100;
+    border-radius: 10px;
+}
+
+.BIU{
+    /* text-decoration: none; */
+    color: #ffffff;
+    font-size: 24px;
+}
+
+/*# sourceMappingURL=main.css.map*/
