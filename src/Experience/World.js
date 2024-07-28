@@ -76,7 +76,7 @@ export default class World
         )
         this.macScreen = new Screen(
             this.resources.items.macScreenModel.scene.children[0],
-            '/assets/banner.mp4'
+            '/assets/game.mp4'
         )
     }
 
