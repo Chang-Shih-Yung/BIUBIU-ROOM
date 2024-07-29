@@ -37,11 +37,12 @@ body
     color: inherit;
      /* 刪除底槓 */
     text-decoration: none;
+    transition: all 0.2s;
 }
 .credits a:hover
 {
     color: #2600ff;
-    transition: all 0.2s;
+    transition: all 0.3s;
     margin-left: 15px;
     padding: 5px 15px;
     font-size: 46px;
