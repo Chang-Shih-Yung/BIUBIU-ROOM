@@ -2,7 +2,6 @@ export default [{
     name: 'base',
     data: {},
     items: [
-        { name: 'arrow ', source: '/assets/arrow.png', type: 'texture' },
         { name: 'arrowAnimate ', source: '/assets/arrowAnimate.gif', type: 'texture' },
         { name: 'googleHomeLedMaskTexture', source: '/assets/googleHomeLedMask.png', type: 'texture' },
         { name: 'googleHomeLedsModel', source: '/assets/googleHomeLedsModel.glb', type: 'model' },

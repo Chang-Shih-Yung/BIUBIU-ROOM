@@ -13,6 +13,39 @@ import Navigation from './Navigation.js'
 
 import assets from './assets.js'
 
+// 引入資源
+// import googleHomeLedMaskTexture from '../../static/assets/googleHomeLedMask.png';
+// import googleHomeLedsModel from '../../static/assets/googleHomeLedsModel.glb';
+// import loupedeckButtonsModel from '../../static/assets/loupedeckButtonsModel.glb';
+// import topChairModel from '../../static/assets/topChairModel.glb';
+// import coffeeSteamModel from '../../static/assets/coffeeSteamModel.glb';
+// import elgatoLightModel from '../../static/assets/elgatoLightModel.glb';
+// import threejsJourneyLogoTexture from '../../static/assets/HoussemLachtarLogo.png';
+// import pcScreenModel from '../../static/assets/pcScreenModel.glb';
+// import macScreenModel from '../../static/assets/macScreenModel.glb';
+// import bakedDayTexture from '../../static/assets/bakedDay.jpg';
+// import bakedNightTexture from '../../static/assets/bakedNight.jpg';
+// import bakedNeutralTexture from '../../static/assets/bakedNeutral.jpg';
+// import lightMapTexture from '../../static/assets/lightMap.jpg';
+// import roomModel from '../../static/assets/roomModel.glb';
+
+// const assets2 = [
+//     { name: 'googleHomeLedMaskTexture', items: [googleHomeLedMaskTexture] },
+//     { name: 'googleHomeLedsModel', items: [googleHomeLedsModel] },
+//     { name: 'loupedeckButtonsModel', items: [loupedeckButtonsModel] },
+//     { name: 'topChairModel', items: [topChairModel] },
+//     { name: 'coffeeSteamModel', items: [coffeeSteamModel] },
+//     { name: 'elgatoLightModel', items: [elgatoLightModel] },
+//     { name: 'threejsJourneyLogoTexture', items: [threejsJourneyLogoTexture] },
+//     { name: 'pcScreenModel', items: [pcScreenModel] },
+//     { name: 'macScreenModel', items: [macScreenModel] },
+//     { name: 'bakedDayTexture', items: [bakedDayTexture] },
+//     { name: 'bakedNightTexture', items: [bakedNightTexture] },
+//     { name: 'bakedNeutralTexture', items: [bakedNeutralTexture] },
+//     { name: 'lightMapTexture', items: [lightMapTexture] },
+//     { name: 'roomModel', items: [roomModel] }
+// ];
+
 export default class Experience
 {
     static instance
